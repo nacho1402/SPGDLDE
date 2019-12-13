@@ -8,5 +8,4 @@ Desarrollado por:
 Staling Marin
 Mario Galindo
 Felipe Nuñez
-Diego Rivas
 Jorge Tovar
